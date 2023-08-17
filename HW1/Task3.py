@@ -30,7 +30,7 @@ def search_number(hidden_number: int, lower_limit: int, upper_limit: int,
 
     NEXT_NUMBER = 1
 
-    for i in range(attempts):
+    for _ in range(attempts):
 
         message_for_user = f'Please enter a natural number from {lower_limit}'\
             + f' to {upper_limit}. You have {attempts} attempts -> '
