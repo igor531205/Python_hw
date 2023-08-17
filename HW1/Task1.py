@@ -70,51 +70,19 @@ def triangle_check(triangle: dict) -> str:
         :return: Тип треугольника.
         """
 
-        # number_of_equal_sides = int()
+        number_of_different_sides = len(set(triangle.values()))
 
-        # sides = list([value for value in triangle.values()])
+        if number_of_different_sides == 3:
 
-        # number_of_sides = len(sides)
+            return f'Triangle scalene.'
 
-        # perimeter = sum(sides)
+        elif number_of_different_sides == 2:
 
-        # for side in range(number_of_sides):
+            return f'Triangle isosceles.'
 
-        #     other_sides = perimeter - sides[side]
+        elif number_of_different_sides == 1:
 
-        # if value >= other_sides:
-        #     sides[side]
-
-        # if number_of_sides > 3:
-        # return f'Such a triangle does not exist.'
-
-        # perimeter = sum(triangle.values())
-
-        # number_of_equal_sides = int()
-
-        # for key, value in triangle.items():
-
-        #     other_sides = perimeter - value
-
-        #     if value >= other_sides:
-
-        #         return f'Such a triangle does not exist.'
-
-        #     for key_in, value_in in triangle.items():
-
-        #         if key != key_in and value == value_in:
-
-        #             number_of_equal_sides += 1
-
-        # if number_of_equal_sides == 0:
-
-        #     return f'Triangle scalene.'
-
-        # elif number_of_equal_sides == 1:
-
-        #     return f'Triangle isosceles.'
-        # elif number_of_equal_sides == 2:
-        #     return f'Triangle is equilateral.'
+            return f'Triangle is equilateral.'
 
     if check_is_triangle(triangle):
 
