@@ -37,7 +37,7 @@ def prime_number_test(number: int) -> str:
     if number == 1 or number == 2:
         return f'Prime number'
 
-    elif number > 1:
+    elif number > 2:
         for i in range(2, number):
             if (number % i) == 0:
                 return f'Prime number'
