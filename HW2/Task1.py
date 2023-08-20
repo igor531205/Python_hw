@@ -1,5 +1,6 @@
 # Напишите программу, которая получает целое число и возвращает его шестнадцатеричное строковое представление.
 # Функцию hex используйте для проверки своего результата.
+# Ширина экрана 120 символов
 
 
 def user_input_number(message: str, lower_limit: int, upper_limit: int) -> int:
@@ -60,8 +61,8 @@ def dec_to_hex(number: int) -> str:
     return '0x' + ''.join(str(num) for num in _remainders[::-1]) if _remainders else '0x0'
 
 
-LOWER_LIMIT = -100_000
-UPPER_LIMIT = 100_000
+LOWER_LIMIT = 0
+UPPER_LIMIT = 1_000_000_000
 
 message_for_user = f'Please enter an integer between {LOWER_LIMIT} and {UPPER_LIMIT} -> '
 
@@ -69,5 +70,5 @@ number_from_user = user_input_number(message_for_user, LOWER_LIMIT, UPPER_LIMIT)
 
 result = dec_to_hex(number_from_user)
 
-print(f'Result - {result}')
+print(f'Result       - {result}')
 print(f'Result check - {hex(number_from_user)}')
