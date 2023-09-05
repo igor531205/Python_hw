@@ -2,6 +2,7 @@
 
 
 def matrix_transposition(matrix):
+    """Функция транспонирования матрицы."""
     return list(list(i) for i in zip(*matrix))
 
 
