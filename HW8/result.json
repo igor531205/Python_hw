@@ -1,0 +1,56 @@
+[
+ {
+  "path": "C:\\Users\\pushk\\Documents\\VS\\Python_hw\\hw8\\Task.py",
+  "type": "file",
+  "size": 760,
+  "parent_directory": "C:\\Users\\pushk\\Documents\\VS\\Python_hw\\hw8"
+ },
+ {
+  "path": "C:\\Users\\pushk\\Documents\\VS\\Python_hw\\hw8",
+  "type": "directory",
+  "size": 760,
+  "parent_directory": "C:\\Users\\pushk\\Documents\\VS\\Python_hw"
+ },
+ {
+  "path": "C:\\Users\\pushk\\Documents\\VS\\Python_hw\\hw8\\Module\\commands.py",
+  "type": "file",
+  "size": 1194,
+  "parent_directory": "C:\\Users\\pushk\\Documents\\VS\\Python_hw\\hw8\\Module"
+ },
+ {
+  "path": "C:\\Users\\pushk\\Documents\\VS\\Python_hw\\hw8\\Module\\__init__.py",
+  "type": "file",
+  "size": 0,
+  "parent_directory": "C:\\Users\\pushk\\Documents\\VS\\Python_hw\\hw8\\Module"
+ },
+ {
+  "path": "C:\\Users\\pushk\\Documents\\VS\\Python_hw\\hw8\\Module",
+  "type": "directory",
+  "size": 1194,
+  "parent_directory": "C:\\Users\\pushk\\Documents\\VS\\Python_hw\\hw8"
+ },
+ {
+  "path": "C:\\Users\\pushk\\Documents\\VS\\Python_hw\\hw8\\Module\\__pycache__\\commands.cpython-310.pyc",
+  "type": "file",
+  "size": 1236,
+  "parent_directory": "C:\\Users\\pushk\\Documents\\VS\\Python_hw\\hw8\\Module\\__pycache__"
+ },
+ {
+  "path": "C:\\Users\\pushk\\Documents\\VS\\Python_hw\\hw8\\Module\\__pycache__\\filecommands.cpython-310.pyc",
+  "type": "file",
+  "size": 2164,
+  "parent_directory": "C:\\Users\\pushk\\Documents\\VS\\Python_hw\\hw8\\Module\\__pycache__"
+ },
+ {
+  "path": "C:\\Users\\pushk\\Documents\\VS\\Python_hw\\hw8\\Module\\__pycache__\\__init__.cpython-310.pyc",
+  "type": "file",
+  "size": 153,
+  "parent_directory": "C:\\Users\\pushk\\Documents\\VS\\Python_hw\\hw8\\Module\\__pycache__"
+ },
+ {
+  "path": "C:\\Users\\pushk\\Documents\\VS\\Python_hw\\hw8\\Module\\__pycache__",
+  "type": "directory",
+  "size": 3553,
+  "parent_directory": "C:\\Users\\pushk\\Documents\\VS\\Python_hw\\hw8\\Module"
+ }
+]

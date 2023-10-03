@@ -1,0 +1,10 @@
+path,type,size,parent_directory
+C:\Users\pushk\Documents\VS\Python_hw\hw8\Task.py,file,760,C:\Users\pushk\Documents\VS\Python_hw\hw8
+C:\Users\pushk\Documents\VS\Python_hw\hw8,directory,760,C:\Users\pushk\Documents\VS\Python_hw
+C:\Users\pushk\Documents\VS\Python_hw\hw8\Module\commands.py,file,1194,C:\Users\pushk\Documents\VS\Python_hw\hw8\Module
+C:\Users\pushk\Documents\VS\Python_hw\hw8\Module\__init__.py,file,0,C:\Users\pushk\Documents\VS\Python_hw\hw8\Module
+C:\Users\pushk\Documents\VS\Python_hw\hw8\Module,directory,1194,C:\Users\pushk\Documents\VS\Python_hw\hw8
+C:\Users\pushk\Documents\VS\Python_hw\hw8\Module\__pycache__\commands.cpython-310.pyc,file,1236,C:\Users\pushk\Documents\VS\Python_hw\hw8\Module\__pycache__
+C:\Users\pushk\Documents\VS\Python_hw\hw8\Module\__pycache__\filecommands.cpython-310.pyc,file,2164,C:\Users\pushk\Documents\VS\Python_hw\hw8\Module\__pycache__
+C:\Users\pushk\Documents\VS\Python_hw\hw8\Module\__pycache__\__init__.cpython-310.pyc,file,153,C:\Users\pushk\Documents\VS\Python_hw\hw8\Module\__pycache__
+C:\Users\pushk\Documents\VS\Python_hw\hw8\Module\__pycache__,directory,3553,C:\Users\pushk\Documents\VS\Python_hw\hw8\Module
